@@ -1,0 +1,10 @@
+<style>
+		.red{background-color: red;}
+		.blue{background-color: blue;}
+		h2 {color: whote;}
+		.green { color:#4AFF33; }
+		#pink {background-color: : pink;}
+
+		@media (min-width: : 800px) {* {background-color: yellow;}
+	}
+	</style>
