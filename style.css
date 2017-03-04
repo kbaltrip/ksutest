@@ -1,10 +1,29 @@
-<style>
-		.red{background-color: red;}
-		.blue{background-color: blue;}
-		h2 {color: whote;}
-		.green { color:#4AFF33; }
-		#pink {background-color: : pink;}
+ul {
+display: flex;
+font-family: sans-serif;
+list-style-type: none;  
+padding: 0 100px;}
 
-		@media (min-width: : 800px) {* {background-color: yellow;}
-	}
-	</style>
+li {
+	color: white;
+	padding: 20px;
+}
+
+li:hover {
+	color:black;
+	background-color: white;
+}
+.red {background-color: red;}
+.blue {background-color: blue;}
+.purple {background-color: purple;}
+.orange {background-color: orange;}
+
+
+h2 {color: white;}
+
+.grow{
+	flex-grow: 1;
+}
+		
+
+		
